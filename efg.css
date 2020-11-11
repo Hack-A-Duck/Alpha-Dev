@@ -1,12 +1,12 @@
 body {
 	/*font-size: 16px;*/
-	background-color: #664400;
+	background-color: white;
 	/*font-family:'Oxygen', sans-serif;*/
 }
 
 /**header**/
 #header-nav {
-	background-color: lightgrey;
+	background-color:#ffb380;
 	border-radius:0;
 	border:0;
 }
